@@ -1,0 +1,20 @@
+Time taken executing query
+Executed all communications for
+executeCampaign
+sending execution of campaign
+waiting for completion of background session execution of campaign
+Time taken executing MAPublish stored process
+Time taken executing MACHUpdate stored process
+Time taken uploading/waiting for shared holding tables
+Time taken executing exportcall stored process
+Time taken executing MADTUpdate stored process
+Starting to execute query - SQL will be shown upon completion
+Starting to upload holding tables using the shared method.
+Start executing MAPublish stored process
+Start executing exportcall stored process
+Start executing MACHUpdate stored process
+Start executing MADTUpdate stored process
+ACCESS ENGINE
+Teradata connection
+row(s) inserted/updated/deleted
+Executed, published and saved list of communications with error level
